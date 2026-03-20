@@ -38,7 +38,7 @@
           "instruction": "Voila! If you've successfully followed the steps, your TV screen should look like the following after some time.",
           "image": "computer.screen.on.JPG",
           "alt": "Picture showing the basic login windows screen of the computer"
-        } ,
+        },
         {
           "instruction": "Try to locate your keyboard and mouse, this also lives somewhere on the main wooden table.",
           "image": "keyboard.mouse.location.JPG",
