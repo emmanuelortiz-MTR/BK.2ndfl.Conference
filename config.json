@@ -1,0 +1,50 @@
+{
+  "options": [
+    {
+      "id": "start",
+      "title": "Find your remote for the Conference Room TV",
+      "steps": [
+        {
+          "instruction": "The remote generally floats somewhere on the large wooden table. Should look as follows",
+          "image": "tv.remote.JPG",
+          "alt": "Picture showing what the remote looks like"
+        },
+        {
+          "instruction": "Let's turn the TV on",
+          "image": "tv.turn.on.JPG",
+          "alt": "Showing the action of turning the TV on"
+        },
+        {
+          "instruction": "Now, let's make sure the TV is on the right input. It should be on Input 2",
+          "image": "hdmi2.input.JPG",
+          "alt": "Changing the TV to Input 2"
+        },
+        {
+          "instruction": "Time to locate our conference room computer. It lives on the tray beneath the Conference room TV",
+          "image": "computer.screen.on.JPG",
+          "alt": "Picture showing where the shared space computer is."
+        },
+        {
+          "instruction": "Let's start from scratch here. Hold down the power button down until the light on the power button is off.",
+          "video_url": "https://drive.google.com/file/d/1Hl1SW2h6f-DWL9CkCo4KyK_eNAfC3lV-/view?usp=sharing",
+          "alt": "Video showing the powering down of the shared space computer"
+        },
+        {
+          "instruction": "Now that the computer is off, let's turn it on.",
+          "video_url": "https://drive.google.com/file/d/1euXmqtC4uisnmZGCVk8Fx1wXB25ExXu1/view?usp=sharing",
+          "alt": "Video showing the powering on of the shared space computer"
+        },
+        {
+          "instruction": "Voila! If you've successfully followed the steps, your TV screen should look like the following after some time.",
+          "image": "computer.screen.on.JPG",
+          "alt": "Picture showing the basic login windows screen of the computer"
+        } ,
+        {
+          "instruction": "Try to locate your keyboard and mouse, this also lives somewhere on the main wooden table.",
+          "image": "keyboard.mouse.location.JPG",
+          "alt": "Picture showing where the keyboard and mouse usually are"
+        }
+      ]
+    }
+  ]
+}
