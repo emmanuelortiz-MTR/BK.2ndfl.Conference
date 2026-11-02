@@ -2,47 +2,98 @@
   "options": [
     {
       "id": "start",
-      "title": "Find your remote for the Conference Room TV",
+      "title": {
+        "en": "Find your remote for the Conference Room TV",
+        "es": "Encuentre su control remoto para la TV de la sala de conferencias"
+      },
       "steps": [
         {
-          "instruction": "The remote generally floats somewhere on the large wooden table. Should look as follows",
+          "instruction": {
+            "en": "The remote generally floats somewhere on the large wooden table. Should look as follows",
+            "es": "El control remoto generalmente está en algún lugar sobre la mesa de madera grande. Debería verse de la siguiente manera"
+          },
           "image": "tv.remote.JPG",
-          "alt": "Picture showing what the remote looks like"
+          "alt": {
+            "en": "Picture showing what the remote looks like",
+            "es": "Imagen que muestra cómo se ve el control remoto"
+          }
         },
         {
-          "instruction": "Let's turn the TV on",
+          "instruction": {
+            "en": "Let's turn the TV on",
+            "es": "Encendamos la TV"
+          },
           "image": "tv.turn.on.JPG",
-          "alt": "Showing the action of turning the TV on"
+          "alt": {
+            "en": "Showing the action of turning the TV on",
+            "es": "Mostrando la acción de encender la TV"
+          }
         },
         {
-          "instruction": "Now, let's make sure the TV is on the right input. It should be on Input 2",
+          "instruction": {
+            "en": "Now, let's make sure the TV is on the right input. It should be on Input 2",
+            "es": "Ahora, asegurémonos de que la TV esté en la entrada correcta. Debería estar en la Entrada 2 (Input 2)"
+          },
           "image": "hdmi2.input.JPG",
-          "alt": "Changing the TV to Input 2"
+          "alt": {
+            "en": "Changing the TV to Input 2",
+            "es": "Cambiando la TV a la Entrada 2"
+          }
         },
         {
-          "instruction": "Time to locate our conference room computer. It lives on the tray beneath the Conference room TV",
+          "instruction": {
+            "en": "Time to locate our conference room computer. It lives on the tray beneath the Conference room TV",
+            "es": "Es hora de localizar la computadora de nuestra sala de conferencias. Está en la bandeja debajo de la TV de la sala de conferencias"
+          },
           "image": "computer.screen.on.JPG",
-          "alt": "Picture showing where the shared space computer is."
+          "alt": {
+            "en": "Picture showing where the shared space computer is.",
+            "es": "Imagen que muestra dónde está la computadora del espacio compartido."
+          }
         },
         {
-          "instruction": "Let's start from scratch here. Hold down the power button down until the light on the power button is off.",
+          "instruction": {
+            "en": "Let's start from scratch here. Hold down the power button down until the light on the power button is off.",
+            "es": "Comencemos desde cero aquí. Mantenga presionado el botón de encendido hasta que la luz del botón de encendido se apague."
+          },
           "video_url": "https://drive.google.com/file/d/1Hl1SW2h6f-DWL9CkCo4KyK_eNAfC3lV-/view?usp=sharing",
-          "alt": "Video showing the powering down of the shared space computer"
+          "alt": {
+            "en": "Video showing the powering down of the shared space computer",
+            "es": "Video que muestra cómo apagar la computadora del espacio compartido"
+          }
         },
         {
-          "instruction": "Now that the computer is off, let's turn it on.",
+          "instruction": {
+            "en": "Now that the computer is off, let's turn it on.",
+            "es": "Ahora que la computadora está apagada, encendámosla."
+          },
           "video_url": "https://drive.google.com/file/d/1euXmqtC4uisnmZGCVk8Fx1wXB25ExXu1/view?usp=sharing",
-          "alt": "Video showing the powering on of the shared space computer"
+          "alt": {
+            "en": "Video showing the powering on of the shared space computer",
+            "es": "Video que muestra cómo encender la computadora del espacio compartido"
+          }
         },
         {
-          "instruction": "Voila! If you've successfully followed the steps, your TV screen should look like the following after some time.",
+          "instruction": {
+            "en": "Voila! If you've successfully followed the steps, your TV screen should look like the following after some time.",
+            "es": "¡Voilá! Si ha seguido los pasos con éxito, la pantalla de su TV debería verse como la siguiente después de un tiempo."
+          },
           "image": "computer.screen.on.JPG",
-          "alt": "Picture showing the basic login windows screen of the computer"
+          "alt": {
+            "en": "Picture showing the basic login windows screen of the computer",
+            "es": "Imagen que muestra la pantalla de inicio de sesión básica de Windows de la computadora"
+          }
         },
         {
-          "instruction": "Try to locate your keyboard and mouse, this also lives somewhere on the main wooden table.",
+          "instruction": {
+            "en": "Try to locate your keyboard and mouse, this also lives somewhere on the main wooden table.",
+            "es": "Intente localizar su teclado y mouse, esto también está en algún lugar de la mesa de madera principal."
+          },
           "image": "keyboard.mouse.location.JPG",
-          "alt": "Picture showing where the keyboard and mouse usually are"
+          "alt": {
+            "en": "Picture showing where the keyboard and mouse usually are",
+            "es": "Imagen que muestra dónde suelen estar el teclado y el mouse"
+          }
         }
       ]
     }
